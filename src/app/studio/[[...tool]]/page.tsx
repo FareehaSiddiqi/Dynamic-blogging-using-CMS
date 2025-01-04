@@ -8,7 +8,7 @@
  */
 
 import { NextStudio } from 'next-sanity/studio'
-import config from '../../../../sanity.config'
+import config from '../../../sanity/sanity.config'
 
 // Remove the incorrect metadata and viewport imports if they are not provided in the next-sanity package
 // If needed, you can import them from a correct source, or remove them if they are not required.
